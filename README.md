@@ -1,2 +1,2 @@
-# url_extract
- 
+## url_extract
+Script for extracting URLs from text dump. Copy entire range of text into **input.txt** and run script. URLs will be extracted to **output.csv** in a single column. Overwrites by default. 
